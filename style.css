@@ -1,0 +1,30 @@
+.logo {
+	background: #AED6F1;
+	padding: 1rem;
+}
+
+.background {
+	background-image: url('images/MGK background.jpg');
+	padding: 8rem;
+    color: white;
+    font-size: 4rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button {
+	padding: 0.5rem;
+	background: black;
+	color: white;
+}
+
+.paragraph {
+	font-size: 1.4rem;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
